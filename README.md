@@ -1,7 +1,7 @@
-# blockchain_demo
+# YourBlocks
 A simple web app to illustrate the features of blockchain.
 
-How to setup?
+# How to setup?
 1. Copy the file 'blockchain.py' to a suitable directory.
 2. Open Terminal and enter the directory in which the file is present. 
 3. Enter the command: $ export FLASK_APP=blockchain.py This is will tell the terminal which application to work with by exporting
