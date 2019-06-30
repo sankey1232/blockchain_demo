@@ -11,5 +11,5 @@ A simple web app to illustrate the features of blockchain.
 
 ## Technologies used
 1. Flask - A python framework used for creating web applications
-2. hashlib - Module for using the sha256 cryptographic algorithm
+2. hashlib - Module for using the SHA-256 cryptographic algorithm
 3. Python - Used for creating the blockchain architecture
