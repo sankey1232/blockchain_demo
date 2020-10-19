@@ -1,4 +1,4 @@
-# YourBlocks
+# CodeBlocks
 A simple web app to illustrate the features of blockchain.
 
 ## How to setup?
